@@ -1,0 +1,48 @@
+.content {
+  position: relative;
+}
+.vvv {
+  filter: blur(30px)
+}
+.ddd {
+  transition: flur .6s forwards;
+}
+.pageStyle {
+  margin: 10px 0!important;
+  text-align: center;
+}
+.content:hover .desc{
+  opacity: 1;
+}
+.desc {
+  position: absolute;
+  top: 0;
+  z-index: 9;
+  width: 100%;
+  opacity: 0;
+  transition: all .5s ease;
+}
+
+.addAnimate {
+  transition: flur .6s forwards;
+  /* filter: blur(15px); */
+}
+@keyframes  flur 
+  {
+    from {
+      filter: blur(20px);
+    }
+    to {
+      filter: blur(0px);
+    }
+  }
+
+  @keyframes  opacity 
+  {
+    from {
+      opacity: .5;
+    }
+    to {
+      opacity: 1;
+    }
+  }  
