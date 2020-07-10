@@ -63,7 +63,7 @@ function Index(props) {
     // console.log(inputEl)
     // const [ listQuery ] = useState(() => 1)
     const fetchData = async () => {
-      let result = await axios.get('http://47.110.124.41', {params: query})
+      let result = await axios.get('http://47.110.124.41:3212', {params: query})
       console.log(result)
       setData(result.data)
       // setLoading(false)
