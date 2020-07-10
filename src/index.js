@@ -7,17 +7,17 @@ import Detail from './views/Detail'
 // import Index from './views/Index'
 
 // import { Router, Route } from 'react-router';
-import { Route,  BrowserRouter, Switch } from 'react-router-dom';
+import { Route,  HashRouter, Switch } from 'react-router-dom';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
   {/* <Router> */}
   <Switch>
     <Route path="/" exact component={App}></Route>
     <Route path="/detail/:id"  component={Detail}></Route>
   {/* </Router> */}
   </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById('root')
 );
 
