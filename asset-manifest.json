@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bing-web/static/css/main.b200e5d4.chunk.css",
-    "main.js": "/bing-web/static/js/main.c6ae6698.chunk.js",
-    "main.js.map": "/bing-web/static/js/main.c6ae6698.chunk.js.map",
+    "main.js": "/bing-web/static/js/main.58062305.chunk.js",
+    "main.js.map": "/bing-web/static/js/main.58062305.chunk.js.map",
     "runtime-main.js": "/bing-web/static/js/runtime-main.6a1ee002.js",
     "runtime-main.js.map": "/bing-web/static/js/runtime-main.6a1ee002.js.map",
     "static/css/2.9edc93b8.chunk.css": "/bing-web/static/css/2.9edc93b8.chunk.css",
     "static/js/2.84067bfa.chunk.js": "/bing-web/static/js/2.84067bfa.chunk.js",
     "static/js/2.84067bfa.chunk.js.map": "/bing-web/static/js/2.84067bfa.chunk.js.map",
     "index.html": "/bing-web/index.html",
-    "precache-manifest.5b92c34a0d612c5aee1bcee1d14e7c03.js": "/bing-web/precache-manifest.5b92c34a0d612c5aee1bcee1d14e7c03.js",
+    "precache-manifest.eb2ad5f4b99887ed1cd5ef7359e0b96d.js": "/bing-web/precache-manifest.eb2ad5f4b99887ed1cd5ef7359e0b96d.js",
     "service-worker.js": "/bing-web/service-worker.js",
     "static/css/2.9edc93b8.chunk.css.map": "/bing-web/static/css/2.9edc93b8.chunk.css.map",
     "static/css/main.b200e5d4.chunk.css.map": "/bing-web/static/css/main.b200e5d4.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9edc93b8.chunk.css",
     "static/js/2.84067bfa.chunk.js",
     "static/css/main.b200e5d4.chunk.css",
-    "static/js/main.c6ae6698.chunk.js"
+    "static/js/main.58062305.chunk.js"
   ]
 }
