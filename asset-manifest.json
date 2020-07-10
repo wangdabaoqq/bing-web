@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/wangdabaoqq/bing-web/static/css/main.b200e5d4.chunk.css",
-    "main.js": "/wangdabaoqq/bing-web/static/js/main.ff95cc01.chunk.js",
-    "main.js.map": "/wangdabaoqq/bing-web/static/js/main.ff95cc01.chunk.js.map",
-    "runtime-main.js": "/wangdabaoqq/bing-web/static/js/runtime-main.228935d4.js",
-    "runtime-main.js.map": "/wangdabaoqq/bing-web/static/js/runtime-main.228935d4.js.map",
-    "static/css/2.9edc93b8.chunk.css": "/wangdabaoqq/bing-web/static/css/2.9edc93b8.chunk.css",
-    "static/js/2.4cfb2733.chunk.js": "/wangdabaoqq/bing-web/static/js/2.4cfb2733.chunk.js",
-    "static/js/2.4cfb2733.chunk.js.map": "/wangdabaoqq/bing-web/static/js/2.4cfb2733.chunk.js.map",
-    "index.html": "/wangdabaoqq/bing-web/index.html",
-    "precache-manifest.388477488871f8a22ed1b2a2cd6449c6.js": "/wangdabaoqq/bing-web/precache-manifest.388477488871f8a22ed1b2a2cd6449c6.js",
-    "service-worker.js": "/wangdabaoqq/bing-web/service-worker.js",
-    "static/css/2.9edc93b8.chunk.css.map": "/wangdabaoqq/bing-web/static/css/2.9edc93b8.chunk.css.map",
-    "static/css/main.b200e5d4.chunk.css.map": "/wangdabaoqq/bing-web/static/css/main.b200e5d4.chunk.css.map",
-    "static/js/2.4cfb2733.chunk.js.LICENSE.txt": "/wangdabaoqq/bing-web/static/js/2.4cfb2733.chunk.js.LICENSE.txt"
+    "main.css": "/bing-web/static/css/main.b200e5d4.chunk.css",
+    "main.js": "/bing-web/static/js/main.de367c62.chunk.js",
+    "main.js.map": "/bing-web/static/js/main.de367c62.chunk.js.map",
+    "runtime-main.js": "/bing-web/static/js/runtime-main.6a1ee002.js",
+    "runtime-main.js.map": "/bing-web/static/js/runtime-main.6a1ee002.js.map",
+    "static/css/2.9edc93b8.chunk.css": "/bing-web/static/css/2.9edc93b8.chunk.css",
+    "static/js/2.4cfb2733.chunk.js": "/bing-web/static/js/2.4cfb2733.chunk.js",
+    "static/js/2.4cfb2733.chunk.js.map": "/bing-web/static/js/2.4cfb2733.chunk.js.map",
+    "index.html": "/bing-web/index.html",
+    "precache-manifest.075ea87a93855dca63b3c9c6ee65de51.js": "/bing-web/precache-manifest.075ea87a93855dca63b3c9c6ee65de51.js",
+    "service-worker.js": "/bing-web/service-worker.js",
+    "static/css/2.9edc93b8.chunk.css.map": "/bing-web/static/css/2.9edc93b8.chunk.css.map",
+    "static/css/main.b200e5d4.chunk.css.map": "/bing-web/static/css/main.b200e5d4.chunk.css.map",
+    "static/js/2.4cfb2733.chunk.js.LICENSE.txt": "/bing-web/static/js/2.4cfb2733.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.228935d4.js",
+    "static/js/runtime-main.6a1ee002.js",
     "static/css/2.9edc93b8.chunk.css",
     "static/js/2.4cfb2733.chunk.js",
     "static/css/main.b200e5d4.chunk.css",
-    "static/js/main.ff95cc01.chunk.js"
+    "static/js/main.de367c62.chunk.js"
   ]
 }
