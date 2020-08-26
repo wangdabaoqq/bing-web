@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import { Row, Col, Pagination } from 'antd';
 import axios from 'axios'
 import { withRouter } from  'react-router-dom'
-
 import './index.css'
 function Index(props) {
   console.log(props)
@@ -22,7 +21,7 @@ function Index(props) {
   //   // console.log(top, viewPortHeight, el)
   //   // console.log(top  <= viewPortHeight + 100)
   //   console.log(top  <= viewPortHeight + 100)
-  //   top  <= viewPortHeight + 100 ? dom.className = 'ddd' : dom.className = 'vvv'
+  //   // top  <= viewPortHeight + 100 ? dom.className = 'ddd' : dom.className = 'vvv'
   //   // liRefList.current.push(dom)
   // }
   // const [isLoading, setLoading] = useState(false);
@@ -63,7 +62,7 @@ function Index(props) {
     // console.log(inputEl)
     // const [ listQuery ] = useState(() => 1)
     const fetchData = async () => {
-      let result = await axios.get('http://47.110.124.41:3212', {params: query})
+      let result = await axios.get('/api', {params: query})
       console.log(result)
       setData(result.data)
       // setLoading(false)
@@ -82,7 +81,7 @@ function Index(props) {
     <Col span={8} key={ele.hsh}  >
       <Link to={`/detail/${ele.hsh}`}>
         <div className="content">
-          <img   className="aa"  style={{'width': '100%', height: '100%'}} src={ele.url} alt={ele.copyright} />
+          <img   className="aa"   style={{'width': '100%', height: '100%'}} src={ele.url} alt={ele.copyright} />
           {/* </Link> */}
           <div className="desc">
             <h3>{ ele.copyright }</h3>
