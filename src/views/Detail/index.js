@@ -7,7 +7,7 @@ function Detail (props) {
   const [imgUrl, setImg] = useState('');
   useEffect(() => {
     // console.log(props.match.params.id)
-    let url = `http://bing.shanch.cn/${props.match.params.id}`
+    let url = `http://abc.pearadmin.com/${props.match.params.id}`
     setImg(url)
   }, [props, imgUrl])
   const backTop = () => {
